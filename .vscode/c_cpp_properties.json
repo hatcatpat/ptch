@@ -1,0 +1,51 @@
+{
+    "configurations": [
+        {
+            "name": "Linux",
+            "includePath": [
+                
+                "/usr/local/include",   
+                "/usr/lib/x86_64-linux-gnu/glib-2.0/include",
+                "/usr/lib/x86_64-linux-gnu/gstreamer-1.0/include",
+                "/usr/local/include",
+                "/usr/include/x86_64-linux-gnu",
+                "/usr/include/gstreamer-1.0",
+                "/usr/include/cairo",
+                "/usr/include/glib-2.0",
+                
+                "/home/pat/Documents/OpenFrameworks/libs/boost/include",
+                "/home/pat/Documents/OpenFrameworks/libs/fmodex/include",
+                "/home/pat/Documents/OpenFrameworks/libs/FreeImage/include",
+                "/home/pat/Documents/OpenFrameworks/libs/freetype/include",
+                "/home/pat/Documents/OpenFrameworks/libs/glm/include",
+                "/home/pat/Documents/OpenFrameworks/libs/json/include",
+                "/home/pat/Documents/OpenFrameworks/libs/kiss/include",
+                "/home/pat/Documents/OpenFrameworks/libs/pugixml/include",
+                "/home/pat/Documents/OpenFrameworks/libs/tess2/include",
+                "/home/pat/Documents/OpenFrameworks/libs/uriparser/include",
+                "/home/pat/Documents/OpenFrameworks/libs/utf8/include",
+
+                "/home/pat/Documents/OpenFrameworks/libs/openFrameworks",
+                "/home/pat/Documents/OpenFrameworks/libs/openFrameworks/3d",
+                "/home/pat/Documents/OpenFrameworks/libs/openFrameworks/app",
+                "/home/pat/Documents/OpenFrameworks/libs/openFrameworks/communication",
+                "/home/pat/Documents/OpenFrameworks/libs/openFrameworks/events",
+                "/home/pat/Documents/OpenFrameworks/libs/openFrameworks/gl",
+                "/home/pat/Documents/OpenFrameworks/libs/openFrameworks/graphics",
+                "/home/pat/Documents/OpenFrameworks/libs/openFrameworks/math",
+                "/home/pat/Documents/OpenFrameworks/libs/openFrameworks/sound",
+                "/home/pat/Documents/OpenFrameworks/libs/openFrameworks/types",
+                "/home/pat/Documents/OpenFrameworks/libs/openFrameworks/utils",
+                "/home/pat/Documents/OpenFrameworks/libs/openFrameworks/video",
+                "${workspaceFolder}/**"
+                
+            ],
+            "defines": [],
+            "compilerPath": "/usr/bin/clang",
+            "cStandard": "c11",
+            "cppStandard": "c++14",
+            "intelliSenseMode": "clang-x64"
+        }
+    ],
+    "version": 4
+}

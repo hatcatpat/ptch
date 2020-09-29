@@ -1,0 +1,21 @@
+{
+    "files.associations": {
+        "cmath": "cpp",
+        "*.ipp": "cpp",
+        "deque": "cpp",
+        "string": "cpp",
+        "vector": "cpp",
+        "tuple": "cpp",
+        "*.cuh": "cpp",
+        "optional": "cpp",
+        "istream": "cpp",
+        "ostream": "cpp",
+        "ratio": "cpp",
+        "system_error": "cpp",
+        "array": "cpp",
+        "functional": "cpp",
+        "type_traits": "cpp",
+        "utility": "cpp",
+        "variant": "cpp"
+    }
+}
